@@ -14,8 +14,8 @@ if operator == "1":
     objem = (3.14156*r*r*v)/3
     print("Objem kužele v centimetrech krychlových je:", objem) 
 elif operator == "2": 
-    obsah = (3.141456*r(r+s))
-    print("Obsah kužele v centimetrech krychlových je:",)
+    obsah = (3.141456*r*(r+s))
+    print("Obsah kužele v centimetrech krychlových je:", obsah)
 
 
 
